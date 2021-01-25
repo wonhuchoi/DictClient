@@ -1,0 +1,2 @@
+# DictClient
+Dictionary.org Client
